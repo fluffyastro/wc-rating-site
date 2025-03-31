@@ -10,9 +10,7 @@
 
 ## Dolgozóink
 #### A dolgozóink szívüket, s lelküket beleöntik a mellékhelyiségek értékelésébe és a weboldal elkészítésébe. Dolgozóink itt találhatóak:
-<li>
-  <ul><a href="https://github.com/fluffyastro">Nagy Álmos Botond</a> - Diplomás mellékhelyiség értékelő, programozó, projektmenedzser</ul>
-  <ul><a href="https://github.com/artife10">Rátkai Krisztián Bence</a> - Mellékhelyiség értékelő, programozó</ul>
-  <ul>G. Dominik - Mellékhelyiség értékelő, programozó</ul>
-  <ul>B. Panna - Mellékhelyiség értékelő, programozó</ul>
-</li>
+<ul><a href="https://github.com/fluffyastro">Nagy Álmos Botond</a> - Diplomás mellékhelyiség értékelő, programozó, projektmenedzser</ul>
+<ul><a href="https://github.com/artife10">Rátkai Krisztián Bence</a> - Mellékhelyiség értékelő, programozó</ul>
+<ul>G. Dominik - Mellékhelyiség értékelő, programozó</ul>
+<ul>B. Panna - Mellékhelyiség értékelő, programozó</ul>
