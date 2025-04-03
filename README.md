@@ -6,7 +6,7 @@
 
 ## Az oldal eredete
 
-#### Az oldal koncepciója 2025. 03. 29-én, szombaton, megközelítőleg 13 órakor született meg. Éppen Oroszházán jártunk négyen, és mielőtt busszal elindultunk volna haza, beugrottunk egy kávézóba, nevezetesen a Caffe Sempre-be, ahol én 5 percnyi várakozás után meglátogattam a mellékhelyiséget. Amikor kijöttem a mellékhelyiségből, visszhangzóan hangos kacajra lettem figyelmes. Krisztián felállt, közeledett hozzám, majd intenzív testbeszéddel felhozta ezt az ötletet, hogy kellene készíteni egy oldalt, ahol mosdókat értékelünk.
+#### Az oldal koncepciója 2025. 03. 29-én, szombaton, megközelítőleg 13 órakor született meg. Éppen Orosházán jártunk négyen, és mielőtt busszal elindultunk volna haza, beugrottunk egy kávézóba, nevezetesen a Caffe Sempre-be, ahol én 5 percnyi várakozás után meglátogattam a mellékhelyiséget. Amikor kijöttem a mellékhelyiségből, visszhangzóan hangos kacajra lettem figyelmes. Krisztián felállt, közeledett hozzám, majd intenzív testbeszéddel felhozta ezt az ötletet, hogy kellene készíteni egy oldalt, ahol mosdókat értékelünk.
 
 ## Dolgozóink
 #### A dolgozóink szívüket, s lelküket beleöntik a mellékhelyiségek értékelésébe és a weboldal elkészítésébe. Dolgozóink itt találhatóak:
