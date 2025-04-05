@@ -13,20 +13,20 @@
 <div id="tagok-botond" align="center">
   <h3 align="center"><a href="https://github.com/fluffyastro">Nagy Álmos Botond</a></h3>
   <img src=/Tagok/tagok_botond.jpg width="240px" height="350px" border-radius="15px">
-  <ul align="center">Diplomás mellékhelyiség értékelő, programozó, projektmenedzser<br>SZF1</ul>
+  <h4 align="center">Diplomás mellékhelyiség értékelő, programozó, projektmenedzser<br>SZF1</h4><br>
 </div>
 <div id="tagok-krisz" align="center">
   <h3><a href="https://github.com/artife10">Rátkai Krisztián Bence</a></h3>
   <img src=/Tagok/tagok_krisz.JPG width="240px" height="350px" border-radius="15px">
-  <ul>Mellékhelyiség értékelő, programozó<br>SZF1</ul>
+  <h4>Mellékhelyiség értékelő, programozó<br>SZF1</h4><br>
 </div>
 <div id="tagok-dominik" align="center">
   <h3><a>G. Dominik</a></h3>
   <img src=/Tagok/tagok_gresi.jpeg width="240px" height="350px" border-radius="15px">
-  <ul>Mellékhelyiség értékelő, programozó<br>SZF2</ul>
+  <h4>Mellékhelyiség értékelő, programozó<br>SZF2</h4><br>
 </div>
 <div id="tagok-panna" align="center">
   <h3><a>B. Panna</a></h3>
   <img src=/Tagok/tagok_panna.jpeg width="240px" height="350px" border-radius="15px">
-  <ul>Mellékhelyiség értékelő, programozó<br>SZF2</ul>
+  <h4>Mellékhelyiség értékelő, programozó<br>SZF2</h4><br>
 </div>
