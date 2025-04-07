@@ -30,3 +30,5 @@
   <img src=/Tagok/tagok_panna.jpeg width="240px" height="350px" border-radius="15px">
   <h4>Mellékhelyiség értékelő, programozó<br>SZF2</h4><br>
 </div>
+
+Your are out of your uniform soldier! Where is your power armor?
