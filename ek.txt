@@ -1,1 +1,18 @@
-mosdo(ID; hely; rating; leiras)
+Mosdó(leiras; rating; hely)
+
+
+sql:
+
+
+CREATE DATABASE sosdio
+
+
+
+
+
+CREATE TABLE mosdok(
+	ID int PRIMARY KEY,
+    hely varchar(255) NOT NULL,
+	leiras varchar(255) NOT NULL,
+	rating int NOT NULL
+)
