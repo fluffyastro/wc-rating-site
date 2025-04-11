@@ -1,0 +1,1 @@
+mosdo(ID; hely; rating; leiras)
