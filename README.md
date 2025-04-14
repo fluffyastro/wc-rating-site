@@ -25,3 +25,5 @@
   <img src=/Tagok/tagok_panna.jpeg width="240px" height="350px" border-radius="15px">
   <h4>Mellékhelyiség értékelő, programozó<br>SZF2</h4><br>
 </div>
+
+<img src=figma_terv.png border-radius="15px">
