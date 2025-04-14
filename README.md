@@ -27,3 +27,4 @@
 </div>
 
 <img src=figma_terv.png border-radius="15px">
+<img src=confused.jpg border-radius="15px">
