@@ -20,11 +20,6 @@
   <img src=/Tagok/tagok_krisz.JPG width="240px" height="350px" border-radius="15px">
   <h4>Mellékhelyiség értékelő, programozó<br>SZF1</h4><br>
 </div>
-<div id="tagok-dominik" align="center">
-  <h3><a href="https://github.com/Gresi17">G. Dominik</a></h3>
-  <img src=/Tagok/tagok_gresi.jpeg width="240px" height="350px" border-radius="15px">
-  <h4>Mellékhelyiség értékelő, programozó<br>SZF2</h4><br>
-</div>
 <div id="tagok-panna" align="center">
   <h3><a href="https://github.com/pliixyx">B. Panna</a></h3>
   <img src=/Tagok/tagok_panna.jpeg width="240px" height="350px" border-radius="15px">
