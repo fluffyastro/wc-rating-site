@@ -1,5 +1,5 @@
 <h1 center="align">Mellékhelyiség értékelő weboldal/blog</h1>
-<img src=/Tagok/skibidinator.jpg width="1050px" height="350px" border-radius="15px" align="center">
+<img src=/Tagok/skibidinator.jpg width="1050px" height="150px" border-radius="15px" align="center">
 <h2>Lényege</h2>
 
 <h4>Az oldal lényege az lesz, hogy a tanév végéig bejárunk random helyeket, és az ott található mellékhelyiségeket értékeljük, lehetőleg képekkel.</h4>
