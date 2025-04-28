@@ -1,15 +1,15 @@
-# Mellékhelyiség értékelő weboldal/blog
+<h1 center="align">Mellékhelyiség értékelő weboldal/blog</h1>
+<img src=/Tagok/skibidinátor.jpg width="240px" height="350px" border-radius="15px" align="center">
+<h2>Lényege</h2>
 
-## Lényege
+<h4>Az oldal lényege az lesz, hogy a tanév végéig bejárunk random helyeket, és az ott található mellékhelyiségeket értékeljük, lehetőleg képekkel.</h4>
 
-#### Az oldal lényege az lesz, hogy a tanév végéig bejárunk random helyeket, és az ott található mellékhelyiségeket értékeljük, lehetőleg képekkel.
+<h2>Az oldal eredete</h2>
 
-## Az oldal eredete
+<h4>Az oldal koncepciója 2025. 03. 29-én, szombaton, megközelítőleg 13 órakor született meg. Éppen Orosházán jártunk négyen, és mielőtt busszal elindultunk volna haza, beugrottunk egy kávézóba, nevezetesen a Caffe Sempre-be, ahol én 5 percnyi várakozás után meglátogattam a mellékhelyiséget. Amikor kijöttem a mellékhelyiségből, visszhangzóan hangos kacajra lettem figyelmes. Krisztián felállt, közeledett hozzám, majd intenzív testbeszéddel felhozta ezt az ötletet, hogy kellene készíteni egy oldalt, ahol mosdókat értékelünk.</h4>
 
-#### Az oldal koncepciója 2025. 03. 29-én, szombaton, megközelítőleg 13 órakor született meg. Éppen Orosházán jártunk négyen, és mielőtt busszal elindultunk volna haza, beugrottunk egy kávézóba, nevezetesen a Caffe Sempre-be, ahol én 5 percnyi várakozás után meglátogattam a mellékhelyiséget. Amikor kijöttem a mellékhelyiségből, visszhangzóan hangos kacajra lettem figyelmes. Krisztián felállt, közeledett hozzám, majd intenzív testbeszéddel felhozta ezt az ötletet, hogy kellene készíteni egy oldalt, ahol mosdókat értékelünk.
-
-## Dolgozóink
-#### A dolgozóink szívüket, s lelküket beleöntik a mellékhelyiségek értékelésébe és a weboldal elkészítésébe. Dolgozóink itt találhatóak:
+<h2>Dolgozóink</h2>
+<h4>A dolgozóink szívüket, s lelküket beleöntik a mellékhelyiségek értékelésébe és a weboldal elkészítésébe. Dolgozóink itt találhatóak:</h4>
 <div id="tagok-botond" align="center">
   <h3 align="center"><a href="https://github.com/fluffyastro">Nagy Álmos Botond</a></h3>
   <img src=/Tagok/tagok_botond.jpg width="240px" height="350px" border-radius="15px">
