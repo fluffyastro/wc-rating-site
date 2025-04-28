@@ -1,6 +1,6 @@
 <div align="center">
   <h1 center="align">Mellékhelyiség értékelő weboldal/blog</h1>
-  <img src=/Tagok/skibidinator.jpg width="1050px" height="150px" border-radius="15px" align="center">
+  <img src=/Tagok/skibidinator.jpg width="5150px" height="5360px" border-radius="15px" align="center">
 </div>
 <div align="center">
   <h2>Lényege</h2>
