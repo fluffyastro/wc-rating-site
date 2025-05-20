@@ -10,7 +10,21 @@
     <title>Mellékhelyiség értékelő weboldal</title>
 </head>
 <body>
-    <h1>Mosdó értékelő weboldal</h1>
-    <h3>Még építés alatt!</h3>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+    <link href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" rel="stylesheet"/>
+    <header>
+        <button id="theme">Világos mód</button>
+    </header>
+    <div class="base">
+        <select name="lang" id="lang">
+            <option value="hu">:zaszlo:magyar</option>
+            <option value="eng">:zaszlo:english</option>
+        </select>
+        <h1>Mosdó értékelő weboldal</h1>
+        <h3>Epítés alatt!</h3>
+        <div id="map">
+        </div>
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>
