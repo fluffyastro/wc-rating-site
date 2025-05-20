@@ -1,11 +1,14 @@
 body{
     background-color: #242424;
     color: #ffffff;
+    text-align: center;
 }
 
 #map{
     margin: auto;
-    width: 100%;
+    height: 600px;
+    width: 800px;
+    text-align: center;
 }
 
 select{
