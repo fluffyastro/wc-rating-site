@@ -14,7 +14,8 @@ let listofitems = [
     [47.95323946282742, 21.717393434823222, "Kenguru", "Nyíregyháza", "Elegem van a sok anomáliából. Elakarok költözni. Tegnap valami fekete árnyék elkapott és elrángatott Debrecenre (nehezen éltem túl)", 0],
     [48.44857424591003, 22.729192281817994, "Árpád", "Munkács", "A turul madár elkapott", 10],
     [48.09637077350096, 19.80208979424953, "Salgótarján kapitány", "Salgótarján", "Salgó szív, tarján lélek. Salgón szarok amíg élek!", 10],
-    [47.17274649943241, 20.17955479329528, "A Szolnoki vadászgépek", "Szolnok", "Sötét felhőn állnak!", 7]
+    [47.17274649943241, 20.17955479329528, "A Szolnoki vadászgépek", "Szolnok", "Sötét felhőn állnak!", 7],
+    [47.34022071150877, 16.516114855816998, "SeeMta Sandor", "San Andreas", "Agyonvertek egy lapáttal", 2]
 ]
 
 function AddMarkers() {
